@@ -23,7 +23,7 @@ public class Program2//Main class definition, it should be same as the filename
          }
 
          if(st1.length()>=5){
-            System.out.println("FIFTH CHARACTER OF THE FIRST STRING IS " +st1.charAt(4));
+            System.out.println("FIFTH CHARACTER OF THE FIRST STRING IS aq " +st1.charAt(4));
          }else{
             System.out.println("Invalid");
          }

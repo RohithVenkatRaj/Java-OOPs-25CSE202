@@ -1,0 +1,9 @@
+package otherpackage;
+import mathutils.calculator;
+public advancedcalculator extends calculator{
+    public static void main(String args[]){
+        advancedcalculator obj=new advancedcalculator();
+        int result = obj.add(5,10);
+        System.out.println("Result :" +result);
+    }
+}
